@@ -17,7 +17,7 @@ Git / GitHib
 # Useful Websites
 
 * [Git hub course overview](https://byui-cse.github.io/cse310-course/lesson01/01-prove.html)
-* [My repository](https://github.com/ghostrider86/apply_program)
+* [My repository](https://github.com/ghostrider86/para_hangman)
 * [Python how to use classes](https://www.w3schools.com/python/python_classes.asp)
 
 
